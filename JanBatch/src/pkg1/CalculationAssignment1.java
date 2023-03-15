@@ -24,6 +24,7 @@ public class CalculationAssignment1 {
     {
     	int div = a/b;
 		System.out.println("The final result is"+div);
+		System.out.println("change for pushing code to github");
     	
     }
     
